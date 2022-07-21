@@ -7,6 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		587ED36D286C475000FAB56C /* HomeworkTenModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 587ED36C286C475000FAB56C /* HomeworkTenModel.swift */; };
+		587ED36F286C47F300FAB56C /* HomeworkTen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 587ED36E286C47F300FAB56C /* HomeworkTen.swift */; };
+		587ED371286C52EE00FAB56C /* HomeworkEleven.swift in Sources */ = {isa = PBXBuildFile; fileRef = 587ED370286C52EE00FAB56C /* HomeworkEleven.swift */; };
+		58912917286B799B007F93DD /* homeworkSixModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58912916286B799B007F93DD /* homeworkSixModel.swift */; };
+		58912919286B7A6D007F93DD /* HomeworkSix.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58912918286B7A6D007F93DD /* HomeworkSix.swift */; };
+		5891291B286B8C81007F93DD /* HomeworkEight.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5891291A286B8C81007F93DD /* HomeworkEight.swift */; };
+		5891291D286B8D45007F93DD /* HomeworkNine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5891291C286B8D44007F93DD /* HomeworkNine.swift */; };
+		5891291F286B8E22007F93DD /* HomeworkNineDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5891291E286B8E22007F93DD /* HomeworkNineDetail.swift */; };
+		5894AAB4286B34820052AADA /* HomeworkFive.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5894AAB3286B34820052AADA /* HomeworkFive.swift */; };
+		5894AABB286B45510052AADA /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = 5894AABA286B45510052AADA /* Alamofire */; };
 		58A0B0EA2869D4C7004A2D8C /* SwiftUITutorialApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58A0B0E92869D4C7004A2D8C /* SwiftUITutorialApp.swift */; };
 		58A0B0EC2869D4C7004A2D8C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58A0B0EB2869D4C7004A2D8C /* ContentView.swift */; };
 		58A0B0EE2869D4CB004A2D8C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 58A0B0ED2869D4CB004A2D8C /* Assets.xcassets */; };
@@ -14,6 +24,11 @@
 		58A0B0FB2869D4CB004A2D8C /* SwiftUITutorialTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58A0B0FA2869D4CB004A2D8C /* SwiftUITutorialTests.swift */; };
 		58A0B1052869D4CB004A2D8C /* SwiftUITutorialUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58A0B1042869D4CB004A2D8C /* SwiftUITutorialUITests.swift */; };
 		58A0B1072869D4CB004A2D8C /* SwiftUITutorialUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58A0B1062869D4CB004A2D8C /* SwiftUITutorialUITestsLaunchTests.swift */; };
+		58A0B1142869F16B004A2D8C /* HomeworkOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58A0B1132869F16B004A2D8C /* HomeworkOne.swift */; };
+		58A0B1162869F1B2004A2D8C /* HomeworkTwoThreeFour.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58A0B1152869F1B2004A2D8C /* HomeworkTwoThreeFour.swift */; };
+		58E2DDE4286C70DE00BEBF0C /* HomeworkFourteen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58E2DDE3286C70DE00BEBF0C /* HomeworkFourteen.swift */; };
+		58E2DDE6286C743800BEBF0C /* HomeworkFourteenNetwork.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58E2DDE5286C743800BEBF0C /* HomeworkFourteenNetwork.swift */; };
+		58E2DDE8286C789E00BEBF0C /* HomeworkFourteenModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 58E2DDE7286C789E00BEBF0C /* HomeworkFourteenModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +49,15 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		587ED36C286C475000FAB56C /* HomeworkTenModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeworkTenModel.swift; sourceTree = "<group>"; };
+		587ED36E286C47F300FAB56C /* HomeworkTen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeworkTen.swift; sourceTree = "<group>"; };
+		587ED370286C52EE00FAB56C /* HomeworkEleven.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeworkEleven.swift; sourceTree = "<group>"; };
+		58912916286B799B007F93DD /* homeworkSixModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = homeworkSixModel.swift; sourceTree = "<group>"; };
+		58912918286B7A6D007F93DD /* HomeworkSix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeworkSix.swift; sourceTree = "<group>"; };
+		5891291A286B8C81007F93DD /* HomeworkEight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeworkEight.swift; sourceTree = "<group>"; };
+		5891291C286B8D44007F93DD /* HomeworkNine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeworkNine.swift; sourceTree = "<group>"; };
+		5891291E286B8E22007F93DD /* HomeworkNineDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeworkNineDetail.swift; sourceTree = "<group>"; };
+		5894AAB3286B34820052AADA /* HomeworkFive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeworkFive.swift; sourceTree = "<group>"; };
 		58A0B0E62869D4C7004A2D8C /* SwiftUITutorial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUITutorial.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		58A0B0E92869D4C7004A2D8C /* SwiftUITutorialApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUITutorialApp.swift; sourceTree = "<group>"; };
 		58A0B0EB2869D4C7004A2D8C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -44,6 +68,11 @@
 		58A0B1002869D4CB004A2D8C /* SwiftUITutorialUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftUITutorialUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		58A0B1042869D4CB004A2D8C /* SwiftUITutorialUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUITutorialUITests.swift; sourceTree = "<group>"; };
 		58A0B1062869D4CB004A2D8C /* SwiftUITutorialUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUITutorialUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		58A0B1132869F16B004A2D8C /* HomeworkOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeworkOne.swift; sourceTree = "<group>"; };
+		58A0B1152869F1B2004A2D8C /* HomeworkTwoThreeFour.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeworkTwoThreeFour.swift; sourceTree = "<group>"; };
+		58E2DDE3286C70DE00BEBF0C /* HomeworkFourteen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeworkFourteen.swift; sourceTree = "<group>"; };
+		58E2DDE5286C743800BEBF0C /* HomeworkFourteenNetwork.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeworkFourteenNetwork.swift; sourceTree = "<group>"; };
+		58E2DDE7286C789E00BEBF0C /* HomeworkFourteenModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeworkFourteenModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +80,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5894AABB286B45510052AADA /* Alamofire in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -96,6 +126,20 @@
 			children = (
 				58A0B0E92869D4C7004A2D8C /* SwiftUITutorialApp.swift */,
 				58A0B0EB2869D4C7004A2D8C /* ContentView.swift */,
+				58A0B1132869F16B004A2D8C /* HomeworkOne.swift */,
+				58A0B1152869F1B2004A2D8C /* HomeworkTwoThreeFour.swift */,
+				5894AAB3286B34820052AADA /* HomeworkFive.swift */,
+				58912916286B799B007F93DD /* homeworkSixModel.swift */,
+				58912918286B7A6D007F93DD /* HomeworkSix.swift */,
+				5891291A286B8C81007F93DD /* HomeworkEight.swift */,
+				5891291C286B8D44007F93DD /* HomeworkNine.swift */,
+				5891291E286B8E22007F93DD /* HomeworkNineDetail.swift */,
+				587ED36C286C475000FAB56C /* HomeworkTenModel.swift */,
+				587ED36E286C47F300FAB56C /* HomeworkTen.swift */,
+				587ED370286C52EE00FAB56C /* HomeworkEleven.swift */,
+				58E2DDE3286C70DE00BEBF0C /* HomeworkFourteen.swift */,
+				58E2DDE7286C789E00BEBF0C /* HomeworkFourteenModel.swift */,
+				58E2DDE5286C743800BEBF0C /* HomeworkFourteenNetwork.swift */,
 				58A0B0ED2869D4CB004A2D8C /* Assets.xcassets */,
 				58A0B0EF2869D4CB004A2D8C /* Preview Content */,
 			);
@@ -143,6 +187,9 @@
 			dependencies = (
 			);
 			name = SwiftUITutorial;
+			packageProductDependencies = (
+				5894AABA286B45510052AADA /* Alamofire */,
+			);
 			productName = SwiftUITutorial;
 			productReference = 58A0B0E62869D4C7004A2D8C /* SwiftUITutorial.app */;
 			productType = "com.apple.product-type.application";
@@ -215,6 +262,9 @@
 				Base,
 			);
 			mainGroup = 58A0B0DD2869D4C7004A2D8C;
+			packageReferences = (
+				5894AAB9286B45510052AADA /* XCRemoteSwiftPackageReference "Alamofire" */,
+			);
 			productRefGroup = 58A0B0E72869D4C7004A2D8C /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -257,7 +307,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				587ED371286C52EE00FAB56C /* HomeworkEleven.swift in Sources */,
+				58E2DDE4286C70DE00BEBF0C /* HomeworkFourteen.swift in Sources */,
+				58912917286B799B007F93DD /* homeworkSixModel.swift in Sources */,
+				5894AAB4286B34820052AADA /* HomeworkFive.swift in Sources */,
 				58A0B0EC2869D4C7004A2D8C /* ContentView.swift in Sources */,
+				5891291D286B8D45007F93DD /* HomeworkNine.swift in Sources */,
+				5891291B286B8C81007F93DD /* HomeworkEight.swift in Sources */,
+				58A0B1142869F16B004A2D8C /* HomeworkOne.swift in Sources */,
+				587ED36D286C475000FAB56C /* HomeworkTenModel.swift in Sources */,
+				587ED36F286C47F300FAB56C /* HomeworkTen.swift in Sources */,
+				58E2DDE6286C743800BEBF0C /* HomeworkFourteenNetwork.swift in Sources */,
+				58E2DDE8286C789E00BEBF0C /* HomeworkFourteenModel.swift in Sources */,
+				5891291F286B8E22007F93DD /* HomeworkNineDetail.swift in Sources */,
+				58912919286B7A6D007F93DD /* HomeworkSix.swift in Sources */,
+				58A0B1162869F1B2004A2D8C /* HomeworkTwoThreeFour.swift in Sources */,
 				58A0B0EA2869D4C7004A2D8C /* SwiftUITutorialApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -417,6 +481,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"SwiftUITutorial/Preview Content\"";
+				DEVELOPMENT_TEAM = G88KQ9R384;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -445,6 +510,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"SwiftUITutorial/Preview Content\"";
+				DEVELOPMENT_TEAM = G88KQ9R384;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -577,6 +643,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		5894AAB9286B45510052AADA /* XCRemoteSwiftPackageReference "Alamofire" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/Alamofire/Alamofire";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		5894AABA286B45510052AADA /* Alamofire */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 5894AAB9286B45510052AADA /* XCRemoteSwiftPackageReference "Alamofire" */;
+			productName = Alamofire;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 58A0B0DE2869D4C7004A2D8C /* Project object */;
 }

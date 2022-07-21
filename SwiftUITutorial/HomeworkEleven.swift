@@ -1,15 +1,15 @@
 //
-//  ContentView.swift
+//  HomeworkEleven.swift
 //  SwiftUITutorial
 //
-//  Created by Ertugrul Berber on 27.06.2022.
+//  Created by Ertugrul Berber on 29.06.2022.
 //
 
 import SwiftUI
 
-struct ContentView: View {
-    @State var count : Int = 0
-//    @State private var tapCount = UserDefaults.standard.integer(forKey: "Tap")
+struct HomeworkEleven: View {
+    
+    @State var count = UserDefaults.standard.integer(forKey: "Tap")
 
     var body: some View {
         VStack{
@@ -17,7 +17,7 @@ struct ContentView: View {
             
             Button(action: {
                 self.count += 1
-//                UserDefaults.standard.set(self.count, forKey: "Tap")
+                UserDefaults.standard.set(self.count, forKey: "Tap")
             }, label: {
                 Text("Tab")
             })
@@ -29,8 +29,8 @@ struct ContentView: View {
     }
 }
 
-struct ContentView_Previews: PreviewProvider {
+struct HomeworkEleven_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView()
+        HomeworkEleven()
     }
 }
